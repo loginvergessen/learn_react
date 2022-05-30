@@ -1,2 +1,10 @@
 # Mac Filesystem
 .DS_Store
+
+# course
+node_modules/
+.cache/
+dist/
+.env
+coverage/
+.vscode/
